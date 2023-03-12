@@ -1,0 +1,10 @@
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\bin\Debug\WinApp.exe
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\bin\Debug\WinApp.pdb
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.csproj.AssemblyReference.cache
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.Form1.resources
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.exe
+C:\Users\Nontobeko.Ndlovu\source\repos\WinApp\obj\Debug\WinApp.pdb
